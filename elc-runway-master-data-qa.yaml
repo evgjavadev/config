@@ -1,3 +1,4 @@
 reload:
   date: qa_git_date_text_master_data_updated
   msg: qa_git_msg_text_master_data
+  message: qa_git_msg_text_master_data
